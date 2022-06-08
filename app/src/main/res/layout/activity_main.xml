@@ -19,7 +19,7 @@ kelas : if-3
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recyclerView"
             android:layout_width="409dp"
-            android:layout_height="675dp"
+            android:layout_height="wrap_content"
             android:paddingTop="?attr/actionBarSize" />
     </FrameLayout>
 
